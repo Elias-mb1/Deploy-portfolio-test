@@ -37,7 +37,7 @@ const ProjectsSection = () => {
   const projects = [
     {
       title: "App-design",
-      description: "Redesigning Zooms front page",
+      description: "Frontpage App design",
       liveLink: "https://projects-brown-kappa.vercel.app/",
       repoLink: "https://github.com/Elias-mb1/projects.git",
     },
