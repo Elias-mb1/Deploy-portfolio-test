@@ -36,23 +36,23 @@ const ProjectCard = ({ title, description, liveLink, repoLink }) => (
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "Zoom-redesign",
+      title: "App-design",
       description: "Redesigning Zooms front page",
-      liveLink: "https://github.com/Elias-mb1/chas_redesign.git",
-      repoLink: "https://github.com/Elias-mb1/chas_redesign.git",
+      liveLink: "https://projects-brown-kappa.vercel.app/",
+      repoLink: "https://github.com/Elias-mb1/projects.git",
     },
     {
-      title: "Radioplayer",
-      description: "using api to apply radio station to radioplayer",
-      liveLink: "https://github.com/Elias-mb1/radioplayer.git",
-      repoLink: "https://github.com/Elias-mb1/radioplayer.git",
+      title: "Banksite",
+      description: "Created a banksite ",
+      liveLink: "https://github.com/Elias-mb1/Banksida1.git",
+      repoLink: "https://github.com/Elias-mb1/Banksida1.git",
     },
     
     {
       title: "Todolist",
       description: "A list of things to do",
       liveLink: "https://github.com/Elias-mb1/todolist.git",
-      repoLink: "https://github.com/Elias-mb1/todolist.git",
+      repoLink: "https://github.com/Elias-mb1/todolist-redux-toolkit.git",
     },
   ];
 
