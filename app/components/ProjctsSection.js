@@ -42,17 +42,17 @@ const ProjectsSection = () => {
       repoLink: "https://github.com/Elias-mb1/projects.git",
     },
     {
-      title: "Banksite",
-      description: "Created a banksite ",
-      liveLink: "https://github.com/Elias-mb1/Banksida1.git",
-      repoLink: "https://github.com/Elias-mb1/Banksida1.git",
+      title: "Calculator",
+      description: "Calculator to use when it is needed ",
+      liveLink: "https://calculator-page.vercel.app/",
+      repoLink: "https://github.com/Elias-mb1/calculator-page.git",
     },
     
     {
-      title: "Todolist",
-      description: "A list of things to do",
-      liveLink: "https://github.com/Elias-mb1/todolist.git",
-      repoLink: "https://github.com/Elias-mb1/todolist-redux-toolkit.git",
+      title: "Flight-search-app",
+      description: "A app that serach the cheapest flights for you",
+      liveLink: "https://flight-search-app-two.vercel.app/",
+      repoLink: "https://github.com/Elias-mb1/flight-search-app.git",
     },
   ];
 
